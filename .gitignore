@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Env
+.env
+
+# Local operational database
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+.chroma/
